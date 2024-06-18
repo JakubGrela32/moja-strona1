@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +31,7 @@ h1{
         <section id="wyniki">
             <h2>Wyniki zawodników</h2>
           
-            <b><p>MMA<p></b>
+            <b><p>MMA<p>
 <table border=1 align ='center'>
      <tr bgcolor="green">
          <th>W</th>
@@ -52,7 +51,7 @@ h1{
 </table>
         
 
- </section>
+
          <section id="kontakt">
             <h2>Kontakt</h2>
             <p>Skontaktuj się z nami mma.@znak.pl.</p>
